@@ -5,7 +5,7 @@
   "main": "server.js",
   "scripts": {
     "test": "mocha --compilers js:babel-core/register -t 6000",
-    "build": "rm -r dist && webpack --progress --config webpack.config.dist.js && cp src/package.json dist/ && cp src/README.md dist/ && cp .npmignore dist/",
+    "build": "rm -r dist && webpack --progress --config webpack.config.dist.js && cp src/package.json dist/ && cp README.md dist/ && cp .npmignore dist/",
     "pub": "cd dist && npm publish"
   },
   "author": "trence320@163.com",

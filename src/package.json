@@ -1,0 +1,27 @@
+{
+  "name": "react-svg-creator",
+  "version": "1.0.0",
+  "description": "React components for svg shape creation",
+  "main": "lib/index.js",
+  "scripts": {},
+  "author": "trence320@163.com",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/terence55/react-svg-creator"
+  },
+  "dependencies": {
+    "prop-types": "^15.5.10",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
+  },
+  "keywords": [
+    "react",
+    "react-component",
+    "component",
+    "svg",
+    "shape",
+    "creator",
+    "frontend"
+  ]
+}
